@@ -10,9 +10,9 @@ In this introductory workshop you will learn about:
 * And how to contribute to Open Source Code!
 
 The interactive workshop has 3 checkpoints:
-Checkpoint 1 - Creating your GitHub account and confirming whether you have Git installed on your machine 
-Checkpoint 2 - Creating a repository, cloning a local copy of it onto your system, making some changes and pushing it back to your remote repository all from your CLI
-Checkpoint 3 - Forking this very repository and submitting a pull request
+1. Checkpoint 1 - Creating your GitHub account and confirming whether you have Git installed on your machine 
+2. Checkpoint 2 - Creating a repository, cloning a local copy of it onto your system, making some changes and pushing it back to your remote repository all from your CLI
+3. Checkpoint 3 - Forking this very repository and submitting a pull request
 
 Once you've passed all 3 checkpoints give yourself a pat on the back you've successfully completed our workshop and can start contributing to Open Source Code! 🎉🎉🎉
 
