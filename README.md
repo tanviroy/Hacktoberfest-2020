@@ -20,4 +20,4 @@ Hacktoberfest is a month long celebration of open source contributions and is a 
 
 ⚠️ Due to the excessive amount of spam PRs created by people and because we abide by Hacktoberfest's values, the PR you make to this repository will NOT count towards your participation in Hacktoberfest 2020.
 
-![HF2020 Events 640x360 Centered](https://user-images.githubusercontent.com/61850850/94990742-01e8c080-059c-11eb-9802-f133e64b9921.png)
+![HF2020 Events 1200x628 Centered](https://user-images.githubusercontent.com/61850850/94990842-96532300-059c-11eb-8c8f-c87e0b20143e.png)
