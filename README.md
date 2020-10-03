@@ -18,6 +18,6 @@ Once you've passed all 3 checkpoints give yourself a pat on the back you've succ
 
 Hacktoberfest is a month long celebration of open source contributions and is a brilliant way to get involved with a larger global programming community. While there are many reasons to participate in Hacktoberfest 2020, the biggest one should be to help make meaningful contributions that improve projects! You can read more about Hacktoberfest 2020 here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-⚠️ Due to the excessive amount of spam PRs created by people and because we abide by Hacktoberfest's values, the PR you make to this repository will NOT count towards your participation in Hacktoberfest 2020.
+⚠️ Please note that the PR you make to this repository will NOT count towards your participation in Hacktoberfest 2020. The open source community is being harmed by people making excessive spam PRs that do not abide by [Hacktoberfest's values](https://hacktoberfest.digitalocean.com/details). Please make meaningful contributions that actually help improve the project - you can join the official Hacktoberfest [Discord server](https://discord.com/invite/hacktoberfest) to find good repositories to contribute to, search the topic on GitHub, or just contact us! 
 
 ![HF2020 Events 1200x628 Centered](https://user-images.githubusercontent.com/61850850/94990842-96532300-059c-11eb-8c8f-c87e0b20143e.png)
