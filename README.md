@@ -1,4 +1,4 @@
-# Introduction to Git Workshop (Hacktoberfest-2020 @ Ashoka)
+# Introduction to Git Workshop (Hacktoberfest-2020 @ Ashoka) 💻💜
 
 Hello World! 
 The Development Wing of the Computer Science Society at Ashoka University and WireByte the Makers' Club would like to warmly welcome you to our Hacktoberfest 2020 @ Ashoka meetup!
