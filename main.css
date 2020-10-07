@@ -18,7 +18,9 @@ li {
 }
 
 p {
-  margin: .5em 0 1em;
+  margin: 5.5em 3 5em;
+  margin-right: 4rem;
+  margin-left: 4rem;
 }
 
 /* Utility classes */
